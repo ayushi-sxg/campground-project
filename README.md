@@ -40,9 +40,6 @@ To see the app in action,[click here] https://yelpcampayushi.herokuapp.com/
 
 ### Clone or download this repository
 
-```sh
-git clone https://github.com/prakhar897/Yelp-Camp.git
-```
 
 ### Install dependencies
 
