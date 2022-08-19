@@ -1,10 +1,5 @@
 # YelpCamp
-
-## Live Demo
-
-To see the app in action,[click here] https://yelpcampayushi.herokuapp.com/
-
-## Features
+# Features
 
 * Authentication:
   
